@@ -1,0 +1,7 @@
+.navbar-expand-md{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.navbar-expand-md .container .nav .nav-item:hover{
+    background-color: rgb(184, 178, 106);
+}

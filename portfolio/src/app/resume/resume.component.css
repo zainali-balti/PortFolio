@@ -1,0 +1,13 @@
+.row .col-lg .text-center{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(110, 76, 142);
+    margin-bottom: 10px;
+    padding-top: 13px;
+}
+.text-center a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+   
+}
